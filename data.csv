@@ -1,0 +1,51 @@
+Pparticipant_id,age,gender,school,group,pre_score,post_score,parent_confidence_pre,parent_confidence_post,programme_completed,sessions_attended,school_area
+1,7,F,St Brigids PS,Treatment,42,67,2,4,Yes,8,Dublin North
+2,8,M,St Brigids PS,Treatment,38,61,2,5,Yes,7,Dublin North
+3,6,F,St Brigids PS,Control,44,48,3,3,No,4,Dublin North
+4,9,M,St Brigids PS,Control,50,53,3,3,No,3,Dublin North
+5,7,F,Scoil Mhuire,Treatment,35,70,1,4,Yes,9,Dublin South
+6,8,M,Scoil Mhuire,Treatment,40,65,2,5,Yes,8,Dublin South
+7,6,F,Scoil Mhuire,Control,55,57,4,4,No,3,Dublin South
+8,9,M,Scoil Mhuire,Control,48,50,3,3,No,4,Dublin South
+9,7,F,Gaelscoil Átha,Treatment,33,68,1,5,Yes,10,Cork
+10,8,M,Gaelscoil Átha,Treatment,45,72,2,4,Yes,9,Cork
+11,6,F,Gaelscoil Átha,Control,52,55,3,3,No,3,Cork
+12,9,M,Gaelscoil Átha,Control,47,49,2,2,No,2,Cork
+13,7,F,St Patricks NS,Treatment,41,66,2,4,Yes,8,Limerick
+14,8,M,St Patricks NS,Treatment,36,60,1,4,Yes,7,Limerick
+15,6,F,St Patricks NS,Control,53,56,3,3,No,3,Limerick
+16,9,M,St Patricks NS,Control,49,52,3,4,No,4,Limerick
+17,7,F,Holy Family NS,Treatment,37,69,1,5,Yes,10,Dublin West
+18,8,M,Holy Family NS,Treatment,43,64,2,4,Yes,8,Dublin West
+19,6,F,Holy Family NS,Control,46,48,3,3,No,3,Dublin West
+20,9,M,Holy Family NS,Control,51,54,4,4,No,2,Dublin West
+21,7,F,St Annes PS,Treatment,39,71,2,5,Yes,9,Galway
+22,8,M,St Annes PS,Treatment,34,63,1,4,Yes,8,Galway
+23,6,F,St Annes PS,Control,54,57,3,3,No,3,Galway
+24,9,M,St Annes PS,Control,48,51,3,3,No,4,Galway
+25,7,F,Scoil Chríost Rí,Treatment,36,70,1,5,Yes,10,Cork
+26,8,M,Scoil Chríost Rí,Treatment,44,68,2,4,Yes,9,Cork
+27,6,F,Scoil Chríost Rí,Control,50,52,3,3,No,3,Cork
+28,9,M,Scoil Chríost Rí,Control,46,49,2,2,No,2,Cork
+29,7,F,St Josephs NS,Treatment,40,65,2,4,Yes,8,Dublin North
+30,8,M,St Josephs NS,Treatment,37,62,1,5,Yes,7,Dublin North
+31,6,F,St Josephs NS,Control,55,58,4,4,No,4,Dublin North
+32,9,M,St Josephs NS,Control,49,51,3,3,No,3,Dublin North
+33,7,F,Mercy Primary,Treatment,35,67,1,4,Yes,9,Limerick
+34,8,M,Mercy Primary,Treatment,42,66,2,5,Yes,8,Limerick
+35,6,F,Mercy Primary,Control,53,55,3,3,No,3,Limerick
+36,9,M,Mercy Primary,Control,47,50,3,3,No,2,Limerick
+37,7,F,St Colms NS,Treatment,38,69,2,5,Yes,10,Dublin West
+38,8,M,St Colms NS,Treatment,41,64,2,4,Yes,8,Dublin West
+39,6,F,St Colms NS,Control,52,54,3,3,No,3,Dublin West
+40,9,M,St Colms NS,Control,48,50,2,2,No,2,Dublin West
+41,7,F,Scoil Íde,Treatment,34,68,1,5,Yes,9,Galway
+42,8,M,Scoil Íde,Treatment,43,67,2,4,Yes,8,Galway
+43,6,F,Scoil Íde,Control,51,53,3,3,No,4,Galway
+44,9,M,Scoil Íde,Control,46,48,2,2,No,3,Galway
+45,7,F,St Marys BNS,Treatment,36,71,1,5,Yes,10,Dublin South
+46,8,M,St Marys BNS,Treatment,44,69,2,4,Yes,9,Dublin South
+47,6,F,St Marys BNS,Control,54,56,4,4,No,3,Dublin South
+48,9,M,St Marys BNS,Control,50,53,3,3,No,2,Dublin South
+49,7,F,Gaelscoil Eoin,Treatment,33,66,1,4,Yes,8,Cork
+50,8,M,Gaelscoil Eoin,Treatment,40,63,2,5,Yes,7,Cork
